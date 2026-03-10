@@ -1,12 +1,11 @@
 {
-  "name": "ww2-armored-vehicles",
+  "name": "ww2-armor-site",
   "version": "1.0.0",
-  "description": "Armored vehicles of World War II participants",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.19.0"
   }
 }
